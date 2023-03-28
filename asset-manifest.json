@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/youtubeAPI/static/css/main.ebaef835.css",
-    "main.js": "/youtubeAPI/static/js/main.dd3bcaa8.js",
-    "static/js/787.9bc0504d.chunk.js": "/youtubeAPI/static/js/787.9bc0504d.chunk.js",
-    "static/media/DungGeunMo.ttf": "/youtubeAPI/static/media/DungGeunMo.1ebba65b2b010a1e45d7.ttf",
-    "static/media/KakaoTalk_20230210_162331727.gif": "/youtubeAPI/static/media/KakaoTalk_20230210_162331727.c75dd5079d858c7cd4f1.gif",
-    "index.html": "/youtubeAPI/index.html",
-    "main.ebaef835.css.map": "/youtubeAPI/static/css/main.ebaef835.css.map",
-    "main.dd3bcaa8.js.map": "/youtubeAPI/static/js/main.dd3bcaa8.js.map",
-    "787.9bc0504d.chunk.js.map": "/youtubeAPI/static/js/787.9bc0504d.chunk.js.map"
+    "main.css": "/youtubeAPI/youtubeAPI/static/css/main.8ccc1976.css",
+    "main.js": "/youtubeAPI/youtubeAPI/static/js/main.484038a4.js",
+    "static/js/787.9bc0504d.chunk.js": "/youtubeAPI/youtubeAPI/static/js/787.9bc0504d.chunk.js",
+    "static/media/DungGeunMo.ttf": "/youtubeAPI/youtubeAPI/static/media/DungGeunMo.1ebba65b2b010a1e45d7.ttf",
+    "static/media/KakaoTalk_20230210_162331727.gif": "/youtubeAPI/youtubeAPI/static/media/KakaoTalk_20230210_162331727.c75dd5079d858c7cd4f1.gif",
+    "index.html": "/youtubeAPI/youtubeAPI/index.html",
+    "main.8ccc1976.css.map": "/youtubeAPI/youtubeAPI/static/css/main.8ccc1976.css.map",
+    "main.484038a4.js.map": "/youtubeAPI/youtubeAPI/static/js/main.484038a4.js.map",
+    "787.9bc0504d.chunk.js.map": "/youtubeAPI/youtubeAPI/static/js/787.9bc0504d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebaef835.css",
-    "static/js/main.dd3bcaa8.js"
+    "static/css/main.8ccc1976.css",
+    "static/js/main.484038a4.js"
   ]
 }
